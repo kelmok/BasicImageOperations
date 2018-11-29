@@ -1,5 +1,5 @@
 # downsampleEveryN.py
-# takes input filename and 'downsamples' image by taking every Nth column and repeati$
+# takes input filename and 'downsamples' by repeating cols
 # Author: kelvin.mok@mail.mcgill.ca
 import numpy as np
 import PIL.Image as Image
